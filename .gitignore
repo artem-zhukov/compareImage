@@ -7,4 +7,5 @@ target/
 ## Additional for IntelliJ
 out/
 
-
+## File-based project format
+*.iml

@@ -1,0 +1,10 @@
+### Maven ###
+target/
+
+## Directory-based project format
+.idea/
+
+## Additional for IntelliJ
+out/
+
+
